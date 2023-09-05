@@ -1,7 +1,7 @@
 import React from 'react'
-import { FifthChart } from '../Charts/FifthChart'
-import { SecondChart } from '../Charts/SecondChart'
-import { ThirdChart } from '../Charts/ThirdChart'
+// import { FifthChart } from '../Charts/FifthChart'
+// import { SecondChart } from '../Charts/SecondChart'
+// import { ThirdChart } from '../Charts/ThirdChart'
 
 import { ChartWrap, InfoContainer, InfoWrapper, InfoRow, Column1, TextWrapper, TopLine, Heading,
 Subtitle, Column2 } from './InfoElements'
@@ -33,9 +33,9 @@ const InfoSection = ({
                     </Column1>
                     <Column2>
                         <ChartWrap>
-                            <FifthChart />
+                            {/* <FifthChart />
                             <SecondChart />
-                            <ThirdChart />
+                            <ThirdChart /> */}
                         </ChartWrap>
                     </Column2>
                 </InfoRow>

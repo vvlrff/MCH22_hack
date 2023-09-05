@@ -1,7 +1,4 @@
 import React from 'react'
-import { Tg1Chart } from '../Charts/Tg1Chart'
-import { Tg2Chart } from '../Charts/Tg2Chart'
-import { Tg3Chart } from '../Charts/Tg3Chart'
 import { ChartWrap, InfoContainer, InfoWrapper, InfoRow, Column1, TextWrapper, TopLine, Heading,
 Subtitle, Column2 } from './InfoElements'
 

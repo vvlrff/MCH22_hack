@@ -1,7 +1,4 @@
 import React from 'react'
-import { Vk1Chart } from '../Charts/Vk1Chart'
-import { Vk2Chart } from '../Charts/Vk2Chart'
-import { Vk3Chart } from '../Charts/Vk3Chart'
 import { ChartWrap, InfoContainer, InfoWrapper, InfoRow, Column1, TextWrapper, TopLine, Heading,
 Subtitle, Column2 } from './InfoElements'
 
